@@ -1,2 +1,2 @@
 # Python-Data-Science-and-Machine-Learning-Bootcamp
-Repo for Python Data Science and Machine Learning Bootcamp - Udemy
+Repo for Python Data Science and Machine Learning Bootcamp Course Practice Exercises- Udemy
